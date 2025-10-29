@@ -3,7 +3,7 @@
 
 ## Dataset  
 
-For this task, I chose the **20 Newsgroups dataset**, a benchmark for text classification. It contains a balanced number of documents and topics, making it a good compromise between dataset size and complexity. The dataset comprises around **18,846** newsgroup posts or variable-length spread across **20 categories**. 
+For this task, I chose the **20 Newsgroups dataset**, a benchmark for text classification. It contains a balanced number of documents and topics, making it a good compromise between dataset size and complexity. The dataset comprises around **18,846** newsgroup posts of variable-length spread across **20 categories**. 
 
 **Source:** [Scikit-learn 20 Newsgroups Dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html)
 
